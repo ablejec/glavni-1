@@ -1,1 +1,2 @@
 Dodatek 1, narejeno v branch 1
+DOdatek2 - after upstream public
